@@ -43,3 +43,4 @@ x = np.linspace(0, np.pi, 50)
 y = np.sin(x)
 plt.plot(x, y)
 plt.show()
+#today (28.12.2025) I finished my excel and copilot professional course
